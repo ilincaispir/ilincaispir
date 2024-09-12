@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ilincaispir
 - 👀 I’m interested in AI, NLP, and Machine Learning
-- 🌱 I’m currently learning Transformers
+- 🌱 I’m currently learning LLMs
 - 💞️ I’m looking to collaborate on data science roles
 - 📫 How to reach me: www.linkedin.com/in/ilincaispir   
 - ⚡ Fun fact: I love to travel
