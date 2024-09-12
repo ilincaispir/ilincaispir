@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ilincaispir
 - 👀 I’m interested in AI, NLP, and Machine Learning
-- 🌱 I’m currently learning LLMs
-- 💞️ I’m looking to collaborate on data science roles
+- 💞️ I’m looking to collaborate on Python projects
 - 📫 How to reach me: www.linkedin.com/in/ilincaispir   
 - ⚡ Fun fact: I've been coding for 8 years but took a break during my BSc
 
